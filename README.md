@@ -1,2 +1,4 @@
 # Web_dev_note-2025
- I'm looking to learn full-stack web development. Here are some of my study notes and documentation of my learning journey.
+I'm a dietitian from Taiwan, and I'm diving into full-stack web development! These are some of my study notes and a record of my progress.
+Any advice or suggestions for improvement would be greatly appreciated!
+Let's go! 
