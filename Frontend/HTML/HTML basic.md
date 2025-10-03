@@ -12,3 +12,17 @@
 ### 快捷鍵
 ctrl+/ 註解
 ! 快速建立skeleton
+
+### skeleton介紹
+<!DOCTYPE html>
+<html lang="zh-Hant"> 設定為繁中網頁
+<head>
+    <meta charset="UTF-8"> 設定文字編碼方式(確保相容性)
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 設定初始長寬、初始放大倍率
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
